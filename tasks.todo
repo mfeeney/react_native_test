@@ -1,0 +1,5 @@
+Navigation:
+    ☐ Need to come up with a better overall vision of navigation
+        - Study how the react-native-redux app works with it, and mimic it with the react-navigation
+        - Also check out how the react-navigation with redux integration app works and consider that
+        - Seems like there should be a good way of using it with redux by utilizing actions/dispatch to navigate around with a reducer
